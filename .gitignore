@@ -1,0 +1,9 @@
+.env
+dev/
+sandbox/
+__pycache__
+scratchpad.py
+sandbox.ipynb
+adapters
+core
+ports
